@@ -1,0 +1,69 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+header{
+    width: 100%;
+    height: 10vh;
+    margin-top: 10vh; 
+    
+}
+h1{
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.pasek{
+    width: 100%;
+    margin: 0 auto;
+
+}
+.linkk{
+    
+    color: black;
+   margin-left: 22%;
+    font-family: bebas neue;
+    font-size: 20pt;
+
+       
+}
+.lewy{
+    margin-left: 20% !important;
+}
+.img{
+    width: 42%;
+    padding-left: 4%;
+    
+    
+    
+}
+
+.footer{
+  color: red;
+   margin-left: 20%;
+    font-family: bebas neue;
+    font-size: 15pt;
+    padding-left: 18vw;
+}
+.pasekfooter{
+    width: 100%;
+    height: 10vh;
+    margin-top: 10vh;
+
+}
+
+.layout1{
+    width: 100%;
+    height: 30%;
+    margin-top: 7%;
+    
+}
+
+.contactbox{
+    width: 50%;
+    height: 30%;
+    margin-top: 7%;
+}
